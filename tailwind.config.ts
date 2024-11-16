@@ -9,8 +9,17 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        customBlue: '#043873',
+        customLightBlue: '#4F9CF9',
+        customSkyBlue: '#C4DEFD',
+        customYellow: '#FFE492',
+
+      },
+      fontFamily: {
+        inter: ['Inter', 'sans-serif'], // Specify the font family
+      },
+      backgroundImage: {
+        'wave-pattern': "url('/wave.png')",
       },
     },
   },
