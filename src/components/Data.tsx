@@ -25,7 +25,7 @@ function Data() {
         </h1>
 
         <p className="font-normal text-black text-base md:text-lg leading-relaxed tracking-tight max-w-[700px] mb-2 md:mb-4"> {/* Reduced margin to 2 */}
-          The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no one but yourself can access them.
+          The app is open source and your notes are saved to an open format, so you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no one but yourself can access them.
         </p>
 
         <button className="flex items-center justify-center gap-2 w-[219px] h-[63px] mt-4 text-lg text-white bg-customLightBlue rounded-lg hover:bg-customBlue transition duration-300">

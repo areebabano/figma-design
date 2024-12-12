@@ -9,7 +9,7 @@ function Footer() {
         {/* Logo and Description */}
         <div className="md:col-span-2">
           <div className="flex items-center mb-4">
-            <img src="/logo.png" alt="whitepace logo" className="w-8 h-8 mr-2" />
+            <Image src="/logo.png" alt="whitepace logo" width={20} height={20} className="mr-2" />
             <span className="text-xl font-bold">whitepace</span>
           </div>
           <p className="text-sm">
